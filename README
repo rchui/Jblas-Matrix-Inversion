@@ -1,0 +1,3 @@
+Type "make all" to compile the code.
+
+Type "qsub run.sub" to run job.
