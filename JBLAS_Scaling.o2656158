@@ -1,0 +1,350 @@
+----------------------------------------
+Begin Torque Prologue (Fri Jan 27 20:13:10 2017)
+Job ID:           2656158
+Username:         rchui2
+Group:            aaa
+Job Name:         JBLAS_Scaling
+Limits:           ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=04:00:00
+Job Queue:        big_mem
+Account:          bn0
+Nodes:            iforge111 
+End Torque Prologue
+----------------------------------------
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+
+----------Starting Matrix Build----------
+Build took: 0.006400216s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.001558633s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.056992994s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.00638676s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.00134771s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.056892121s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.006388496s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.001334339s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.057070083s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.006395909s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.001332976s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.056969532s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.006358818s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.001279679s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.057113677s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.028865739s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.020871506s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.169359327s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.029095186s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.020953712s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.170901922s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.029090143s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.02094156s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.16454682s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.02898318s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.020866108s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.164002309s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 0.028971681s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 0.020838977s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 0.169381158s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 2.552056571s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 1.328258963s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 20.05670878s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 2.551483672s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 1.315091448s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 19.24584752s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 2.550820311s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 1.285244268s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 19.249346457s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 2.551307982s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 1.301838424s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 19.789113643s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 2.551918172s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 1.29733771s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 19.32464882s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 10.32908134s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 5.479908476s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 122.989091718s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 10.325096103s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 5.412275729s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 123.938676621s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 10.325798039s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 5.543749657s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 121.762204918s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 10.298761851s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 5.525172423s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 120.091152607s
+
+----------Finishing Computation----------
+
+
+----------Starting Matrix Build----------
+Build took: 10.32582351s
+
+----------Finishing Matrix Build----------
+
+----------Building Identiy Matrix----------
+Build took: 5.40597076s
+
+----------Finishing Identiy Matrix Build----------
+
+----------Starting Computation----------
+Compute Time: 121.407615591s
+
+----------Finishing Computation----------
+
+----------------------------------------
+Begin Torque Epilogue (Fri Jan 27 20:26:46 2017)
+Job ID:           2656158
+Username:         rchui2
+Group:            aaa
+Job Name:         JBLAS_Scaling
+Session:          27792
+Limits:           ncpus=1,neednodes=1:ppn=20,nodes=1:ppn=20,walltime=04:00:00
+Resources:        cput=00:00:00,energy_used=0,mem=0kb,vmem=0kb,walltime=00:13:35
+Job Queue:        big_mem
+Account:          bn0
+Exit code:        0
+Nodes:            iforge111 
+Max Memory Used:  (iforge111)  23.49G
+End Torque Epilogue
+----------------------------------------

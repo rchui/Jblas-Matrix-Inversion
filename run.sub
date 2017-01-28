@@ -1,0 +1,38 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=20
+#PBS -l walltime=4:00:00
+#PBS -q big_mem
+#PBS -N JBLAS_Scaling
+#PBS -A bn0
+#PBS -m abe
+#PBS -M rchui2@illinois.edu
+
+cd /projects/bioinformatics/Sgnt/gBLUP/jblas-scaling/
+export CLASSPATH=$CLASSPATH:/usr/local/apps/bioapps/atlas/jblas/target/jblas-1.2.4-SNAPSHOT.jar
+
+java ScalingTest 100
+java ScalingTest 100
+java ScalingTest 100
+java ScalingTest 100
+java ScalingTest 100
+
+java ScalingTest 1000
+java ScalingTest 1000
+java ScalingTest 1000
+java ScalingTest 1000
+java ScalingTest 1000
+
+java ScalingTest 10000
+java ScalingTest 10000
+java ScalingTest 10000
+java ScalingTest 10000
+java ScalingTest 10000
+
+java ScalingTest 20000
+java ScalingTest 20000
+java ScalingTest 20000
+java ScalingTest 20000
+java ScalingTest 20000
+
+cd /ui/ncsa/rchui2/
+source /projects/bioinformatics/builds/memprof/memprof.sh java ScalingTest 20000
