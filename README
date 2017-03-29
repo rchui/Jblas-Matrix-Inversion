@@ -1,3 +1,10 @@
-Type "make all" to compile the code.
+# jBLAS-Matrix-Inversion
 
-Type "qsub run.sub" to run job.
+## Introduction
+This respository was made to find a java matrix library that could do parallel matrix inversions and practice theri implementation.
+
+## Compile
+  make all
+
+## Run
+  qsub run.sub
