@@ -4,7 +4,7 @@
 This respository was made to find a java matrix library that could do parallel matrix inversions and practice theri implementation.
 
 ## Compile
-  make all
+    make all
 
 ## Run
-  qsub run.sub
+    qsub run.sub
